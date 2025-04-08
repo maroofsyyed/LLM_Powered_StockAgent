@@ -1,4 +1,4 @@
-# Advanced Stock Trading Simulation
+# LLM_Powered_StockAgent
 
 ## 🚀 Project Overview
 
@@ -46,7 +46,7 @@ This is a sophisticated stock trading simulation that leverages AI-driven agent 
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/stock-trading-simulation.git
+git clone https://github.com/maroofsyyed/LLM_Powered_StockAgent.git
 cd stock-trading-simulation
 pip install -r requirements.txt
 ```
@@ -93,4 +93,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 📬 Contact
 Your Name - your.email@example.com
 
-Project Link: [https://github.com/yourusername/stock-trading-simulation](https://github.com/yourusername/stock-trading-simulation)
+Project Link: https://github.com/maroofsyyed/LLM_Powered_StockAgent
