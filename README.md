@@ -31,13 +31,6 @@ This is a sophisticated stock trading simulation that leverages AI-driven agent 
 - `StockAgentSystem.py`: Manages overall trading simulation
 - `SimulationConfig.py`: Configures simulation parameters
 
-### Key Technologies
-- Python
-- Large Language Models (LLM)
-- Pandas
-- NumPy
-- Random simulation techniques
-
 ## 🚦 Getting Started
 
 ### Prerequisites
@@ -69,28 +62,8 @@ python run_simulation.py
 - Economic indicator tracking
 - Sector-specific market analysis
 
-## 🧪 Testing
-- Comprehensive error handling
-- Robust key error prevention
-- Realistic market condition simulation
-
-## 🔮 Future Roadmap
-- Expand to more stocks and sectors
-- Enhanced machine learning integration
-- More sophisticated crisis modeling
-- Real-time market data integration
-
-## 📝 Contributing
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📬 Contact
-Your Name - your.email@example.com
+Your Name - youareconnectingtomaroof@gmail.com
 
 Project Link: https://github.com/maroofsyyed/LLM_Powered_StockAgent
